@@ -1,0 +1,47 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>portal</name>
+            <path pathversion="1">http://noobsandnerds.com/portal/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>goliath</name>
+            <path pathversion="1">http://matsbuilds.uk/goliath/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>husham</name>
+            <path pathversion="1">http://repo.husham.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>news 12</name>
+            <path pathversion="1">http://ninjasys.uk/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>ares</name>
+            <path pathversion="1">http://kdil.co/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>kodistuff</name>
+            <path pathversion="1">http://mediarepos.org/kodistuff</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+</sources>
